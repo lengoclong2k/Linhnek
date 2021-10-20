@@ -23,7 +23,7 @@ function firstQuestion() {
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
         imageUrl: 'img/Intro.jpg',
-        imageWidth: 300,
+        imageWidth: 200,
         imageHeight: 300,
         background: '#fff url("img/iput-bg.jpg")',
         imageAlt: 'Custom image',
